@@ -14,3 +14,4 @@ To use the software, enter your name when prompted to. Then enter your age when 
 
 The software can be installed by cloning the code from the GitHub repository. It should then run in a file called actual_code.ipynb.
 
+Feel free to add to the code!
