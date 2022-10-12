@@ -12,10 +12,12 @@ Group members: Brooklyn Castleberry, Karlynn Riccitelli
 
 for part 2 of our group assignment
 
-What the softw:
+What the software does:
 To use the software, enter your name when prompted to. Then enter your age when prompted to. The software will then greet you, and tell you how old you would be if you were a dog. 
 
-
+How to use it:
 The software can be installed by cloning the code from the GitHub repository. It should then run in a file called actual_code.ipynb.
 
+How to contribute:
 Feel free to add to the code!
+
